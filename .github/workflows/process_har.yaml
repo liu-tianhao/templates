@@ -1,6 +1,6 @@
 name: HAR_Process
 on:
-  workflow_dispatch: {btschool}
+  workflow_dispatch: {btschool.har}
   issues:
     types: [edited, labeled]
 
